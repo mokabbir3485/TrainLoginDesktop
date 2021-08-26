@@ -1,0 +1,110 @@
+
+Ticket No: 6657
+Time: 10:39:47
+Date: 09-04-2017
+From: Dhaka
+To: Sylhet *
+Class: AC Seat
+Ticket Type: RETURN
+passenger Type: Student
+Distance: 320 KM
+Sub Total: 625.00
+Tax: 54.00
+Total Price: 733.00
+
+Ticket No: 3279
+Time: 10:40:02
+Date: 09-04-2017
+From: Dhaka
+To: Chittagong *
+Class: AC Berth
+Ticket Type: ONE WAY
+passenger Type: adult
+Distance: 345 KM
+Sub Total: 950.00
+Tax: 89.30
+Total Price: 1039.30
+
+Ticket No: 6421
+Time: 10:40:17
+Date: 09-04-2017
+From: Dhaka
+To: Comilla *
+Class: Standard
+Ticket Type: ONE WAY
+passenger Type: Student
+Distance: 190 KM
+Sub Total: 170.00
+Tax: 25.50
+Total Price: 195.50
+
+Ticket No: 5918
+Time: 20:31:47
+Date: 10-04-2017
+From: Dhaka
+To: Sylhet *
+Class: AC Seat
+Ticket Type: RETURN
+passenger Type: Student
+Distance: 320 KM
+Sub Total: 625.00
+Tax: 54.00
+Total Price: 733.00
+
+Ticket No: 4112
+Time: 21:09:59
+Date: 10-04-2017
+From: Dhaka
+To: Comilla *
+Class: AC Seat
+Ticket Type: ONE WAY
+passenger Type: adult
+Distance: 190 KM
+Sub Total: 435.00
+Tax: 51.95
+Total Price: 486.95
+
+Ticket No: 5566
+Time: 21:17:10
+Date: 10-04-2017
+From: Dhaka
+To: Sylhet *
+Class: AC Seat
+Ticket Type: ONE WAY
+passenger Type: adult
+Distance: 320 KM
+Sub Total: 625.00
+Tax: 80.45
+Total Price: 705.45
+
+Ticket No: 3818
+Time: 20:04:19
+Date: 13-04-2017
+From: Dhaka
+To: Chittagong *
+Class: AC Berth
+Ticket Type: ONE WAY
+passenger Type: Student
+Distance: 345 KM
+Sub Total: 475.00
+Tax: 44.65
+Total Price: 519.65
+
+Ticket No: 5910
+Time: 20:52:21
+Date: 17-04-2017
+From: Dhaka
+To: Sylhet *
+
+Ticket No: 4657
+Time: 14:23:46
+Date: 18-04-2017
+From: Dhaka
+To: Chittagong *
+Class: Standard
+Ticket Type: ONE WAY
+passenger Type: adult
+Distance: 345 KM
+Sub Total: 570.00
+Tax: 85.50
+Total Price: 655.50

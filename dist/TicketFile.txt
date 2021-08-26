@@ -1,0 +1,13 @@
+
+Ticket No: 4045
+Time: 18:02:38
+Date: 21-01-2019
+From: Dhaka
+To: Chittagong *
+Class: Standard
+Ticket Type: ONE WAY
+passenger Type: adult
+Distance: 345 KM
+Sub Total: 570.00
+Tax: 85.50
+Total Price: 655.50
